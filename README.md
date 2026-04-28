@@ -57,8 +57,8 @@ The notebook includes:
 
 The DAM model produces execution time predictions that closely match measured runtimes under selected configurations.
 
-- Prediction error (best cases): ~2% – 9%  
-- Average error (selected cases): **~4.96%**
+- Prediction error: ~2% – 9%  
+- Average Prediction error: **~4.96%**
 
 ---
 
