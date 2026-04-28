@@ -65,9 +65,23 @@ The DAM model produces execution time predictions that closely match measured ru
 
 ---
 
-## ▶️ How to Run
+## 📖 Citation
 
-1. Open the notebook:
+If you use this work, please cite:
 
-```bash
-jupyter notebook Q52_DAM.ipynb
+```bibtex
+@article{tariq2026dam,
+  title   = {Predicting Runtime in Spark-Like Systems with Allocation-Aware Deterministic Models},
+  author  = {Tariq, H. and Das, O.},
+  journal = {Software: Practice and Experience},
+  year    = {2026},
+  note    = {Manuscript under review}
+}
+
+@inproceedings{tariq2022sam,
+  title     = {A Deterministic Model to Predict Execution Time of Spark Applications},
+  author    = {Tariq, H. and Das, O.},
+  booktitle = {Computer Performance Engineering (EPEW)},
+  year      = {2022},
+  publisher = {Springer}
+}
