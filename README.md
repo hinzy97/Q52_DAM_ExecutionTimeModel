@@ -1,3 +1,6 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # DAM: Dynamic Allocation Model for Spark Execution Time Prediction
 
 This repository provides a reproducible implementation of the **Dynamic Allocation Model (DAM)** for predicting execution time of Apache Spark applications using a deterministic, stage-based simulation framework.
