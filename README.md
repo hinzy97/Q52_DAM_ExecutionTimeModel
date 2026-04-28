@@ -23,6 +23,14 @@ The model extends the Static Allocation Model (SAM) by dynamically adjusting exe
 
 ## ▶️ How to Run
 
-```bash
-pip install -r requirements.txt
-python src/dam_model.py
+## 📓 Notebook
+
+The primary implementation and experiment can be found in:
+
+- `Q52_DAM.ipynb`
+
+This notebook contains:
+- Stage and task modeling
+- Dynamic executor allocation logic
+- Execution time simulation for Query-52
+- Result validation against measured execution times
